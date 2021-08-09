@@ -6,8 +6,7 @@
 </a><br><br>
 
 ![Lucas's Stats](https://github-readme-stats.vercel.app/api?username=lucasgsa&show_icons=true&theme=calm&custom_title=Minhas%20contribui%C3%A7%C3%B5es%20no%20Github&include_all_commits=true)
-<br>
-![Lucas's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgsa&layout=compact&theme=calm&langs_count=100&custom_title=Minhas%20linguagens%20mais%20usadas)
+![Lucas's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgsa&layout=compact&theme=calm&langs_count=8&custom_title=Minhas%20linguagens%20mais%20usadas)
 
 ### Alguns dos meus projetos:<br>
 - [Dúvidas Discord BOT](https://github.com/lucasgsa/DuvidasBot) - Bot de discord, com intuito de ajudar a comunicação monitor/aluno em servidor.<br>
